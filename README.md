@@ -1,0 +1,2 @@
+# NCAA-Project
+This is a notebook where I explored a few popular libraries in Jupyter Notebooks to evaluate NCAA men's basketball data. From this data, I made visualizations, merged data frames, and ran machine learning algorithms (Principal Component Analysis, Dimensionality Reduction) to evaluate which features are best at predicting how a player gets drafted into the NBA, based on their NCAA basketball statistics.
